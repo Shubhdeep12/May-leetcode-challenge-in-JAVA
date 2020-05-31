@@ -1,4 +1,4 @@
-# May-30days-leetcode-challenge-in-JAVA
+# May-leetcode-challenge-in-JAVA
 Hi
 
 So,
